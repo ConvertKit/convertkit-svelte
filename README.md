@@ -21,7 +21,7 @@ View examples on [how to use different templates here](https://codesandbox.io/s/
 ## Usage
 
 ```jsx
-import ConvertKitForm from 'convertkit-react'
+import ConvertKitForm from 'convertkit-svelte'
 
 const MY_FORM_ID = 1234567
 
