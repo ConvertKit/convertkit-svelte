@@ -1,0 +1,25 @@
+{
+  "name": "convertkit-svelte",
+  "version": "0.0.1",
+  "description": "ConvertKit Forms for Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConvertKit/convertkit-svelte.git"
+  },
+  "keywords": [
+    "convertkit",
+    "forms",
+    "newsletter",
+    "svelte"
+  ],
+  "author": "Joseph Rex <joerexko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConvertKit/convertkit-svelte/issues"
+  },
+  "homepage": "https://github.com/ConvertKit/convertkit-svelte#readme"
+}
