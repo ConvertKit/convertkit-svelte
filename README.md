@@ -6,7 +6,9 @@
 
 
 Using Vue? Try [ConvertKit-Vue](https://github.com/convertkit/convertkit-vue)
-Using React? Try [ConvertKit-Vue](https://github.com/convertkit/convertkit-react)
+
+Using React? Try [ConvertKit-React](https://github.com/convertkit/convertkit-react)
+
 **WARNING: THIS PROJECT IS NOT READY FOR USE**
 ## Setup
 
