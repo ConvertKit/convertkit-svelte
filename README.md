@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>ConvertKit React</h1>
-  <img src="https://raw.githubusercontent.com/ConvertKit/convertkit-svelte/main/static/convertKit-svelte.png" alt="ConvertKit Svelte Logo" width="200" height="96" />
+  <h1>ConvertKit Svelte</h1>
+  <img src="https://raw.githubusercontent.com/ConvertKit/convertkit-svelte/main/static/convertkit-svelte.png" alt="ConvertKit Svelte Logo" width="200" height="96" />
   <p>Easily plug convertkit forms to your Svelte projects.</p>
 </div>
 
